@@ -16,7 +16,7 @@ facts = [
 	"Alaska Sea Otter Scientific Name: Enhydra lutris kenyoni",
 	"The sea otter is the largest member of the Mustelidae, or weasel family, and the only one which lives almost entirely in the water.",
 	"Sea otters can live up to 25 years of age, although the average lifespan is 10 to 12 years.",
-	"Although the sea otter is the smallest marine mammal, the average adult can be as large as 5 feet in length and weigh up to 70 lbs.".
+	"Although the sea otter is the smallest marine mammal, the average adult can be as large as 5 feet in length and weigh up to 70 lbs.",
 	"The average length of an adult female is 4 feet and average weight is 60 lbs.",
 	"At birth, sea otters weigh approximately 5 lbs and are 10 inches in length.",
 	"Sea otter fur ranges from brown to almost black with guard hairs that may be silver, light brown, or black.",
